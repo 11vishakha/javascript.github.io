@@ -1,0 +1,38 @@
+NumOfMonths=10
+if(NumOfMonths==1){
+    console.log("January")
+}
+if(NumOfMonths==2){
+    console.log("February")
+}
+if(NumOfMonths==3){
+    console.log("March")
+}
+if(NumOfMonths==4){
+    console.log("April")
+}
+if(NumOfMonths==5){
+    console.log("May")
+}
+if(NumOfMonths==6){
+    console.log("June")
+}
+if(NumOfMonths==7){
+    console.log("July")
+}
+if(NumOfMonths==8){
+    console.log("August")
+}
+if(NumOfMonths==9){
+    console.log("September")
+}
+if(NumOfMonths==10){
+    console.log("October")
+}
+if(NumOfMonths==11){
+    console.log("November")
+}
+else if(NumOfMonths==12)
+{
+    console.log("December")
+}

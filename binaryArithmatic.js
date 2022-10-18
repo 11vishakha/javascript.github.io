@@ -1,9 +1,17 @@
-num1=20;
-num2=40;
-add=num1/num2
-console.log(add)
 
 
+let a=20;
+let b=40;
+console.log('a+b=' ,a+b)
+console.log('a-b=' ,a-b)
+console.log('a*b=' ,a*b)
+console.log('a/b=' ,a/b)
+console.log('a++=' ,a++)
+console.log('++a=',++a) 
+console.log('a-- =',a--)
+console.log('--a =',--a)
+console.log('a =',a)
+console.log('a-- =',a--)
 
 
 
